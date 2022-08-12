@@ -1,0 +1,170 @@
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\obj\Debug\Interop.VBIDE.dll
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\obj\Debug\Reportes.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\bin\Debug\Reportes.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\bin\Debug\Reportes.exe
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\bin\Debug\Reportes.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\obj\Debug\Reportes.exe
+c:\users\admin\documents\visual studio 2012\Projects\Reportes\Reportes\obj\Debug\Reportes.pdb
+E:\Proyecto\Reportes\Reportes\bin\Debug\Reportes.exe.config
+E:\Proyecto\Reportes\Reportes\obj\Debug\Interop.VBIDE.dll
+E:\Proyecto\Reportes\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+E:\Proyecto\Reportes\Reportes\obj\Debug\Reportes.exe
+E:\Proyecto\Reportes\Reportes\obj\Debug\Reportes.pdb
+E:\Proyecto\Reportes\Reportes\bin\Debug\Reportes.exe
+E:\Proyecto\Reportes\Reportes\bin\Debug\Reportes.pdb
+E:\Proyecto\Reportes\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+E:\Proyecto\Reportes\Reportes\obj\Debug\Reportes.Form1.resources
+E:\Proyecto\Reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+E:\Proyecto\Reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+D:\Proyecto\Reportes 2017\Reportes\bin\Debug\Reportes.exe.config
+D:\Proyecto\Reportes 2017\Reportes\bin\Debug\Reportes.exe
+D:\Proyecto\Reportes 2017\Reportes\bin\Debug\Reportes.pdb
+D:\Proyecto\Reportes 2017\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+D:\Proyecto\Reportes 2017\Reportes\obj\Debug\Reportes.Form1.resources
+D:\Proyecto\Reportes 2017\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+D:\Proyecto\Reportes 2017\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+D:\Proyecto\Reportes 2017\Reportes\obj\Debug\Reportes.exe
+D:\Proyecto\Reportes 2017\Reportes\obj\Debug\Reportes.pdb
+D:\Proyecto\Reportes2017\Reportes\bin\Debug\Reportes.exe.config
+D:\Proyecto\Reportes2017\Reportes\bin\Debug\Reportes.exe
+D:\Proyecto\Reportes2017\Reportes\bin\Debug\Reportes.pdb
+D:\Proyecto\Reportes2017\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+D:\Proyecto\Reportes2017\Reportes\obj\Debug\Reportes.Form1.resources
+D:\Proyecto\Reportes2017\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+D:\Proyecto\Reportes2017\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+D:\Proyecto\Reportes2017\Reportes\obj\Debug\Reportes.exe
+D:\Proyecto\Reportes2017\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Admin\Desktop\Reportes2017\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Admin\Desktop\Reportes2017\Reportes\obj\Debug\Interop.VBIDE.dll
+C:\Users\Admin\Desktop\Reportes2017\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Reportes2017\Reportes\bin\Debug\Reportes.exe
+C:\Users\Admin\Desktop\Reportes2017\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Admin\Desktop\Reportes2017\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\Admin\Desktop\Reportes2017\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Admin\Desktop\Reportes2017\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Reportes2017\Reportes\obj\Debug\Reportes.exe
+C:\Users\Admin\Desktop\Reportes2017\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Interop.VBIDE.dll
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.exe
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.exe
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Admin\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.exe
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.pdb
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.exe
+C:\Users\AUXSISTEMAS2\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.pdb
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.exe
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.pdb
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.exe
+C:\Users\AUX SISTEMAS\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.pdb
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.exe
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\bin\Debug\Reportes.pdb
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.exe
+C:\Users\AUXSISTEMAS1\Desktop\Reportes2017VS2012\Reportes\obj\Debug\Reportes.pdb
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\bin\Debug\Reportes.exe
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\bin\Debug\Reportes.pdb
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\obj\Debug\Reportes.exe
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\obj\Debug\Reportes.pdb
+C:\Users\AUXSISTEMAS1\Desktop\Reportes\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+D:\Reportes\Reportes\bin\Debug\Reportes.exe.config
+D:\Reportes\Reportes\bin\Debug\Reportes.exe
+D:\Reportes\Reportes\bin\Debug\Reportes.pdb
+D:\Reportes\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+D:\Reportes\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+D:\Reportes\Reportes\obj\Debug\Reportes.Form1.resources
+D:\Reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+D:\Reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+D:\Reportes\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+D:\Reportes\Reportes\obj\Debug\Reportes.exe
+D:\Reportes\Reportes\obj\Debug\Reportes.pdb
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\bin\Debug\Reportes.exe
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\bin\Debug\Reportes.pdb
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\obj\Debug\Reportes.exe
+C:\Users\AUX SISTEMAS\Desktop\Reportes\Reportes\obj\Debug\Reportes.pdb
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\bin\Debug\Reportes.exe
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\bin\Debug\Reportes.pdb
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.exe
+C:\Users\AUX_SISTEMAS\Desktop\SCAN\00-ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.pdb
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\bin\Debug\Reportes.exe.config
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\bin\Debug\Reportes.exe
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\bin\Debug\Reportes.pdb
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.Form1.resources
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.exe
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.pdb
+D:\SCAN\00 - ProyectosFinales\Reportes\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\bin\Debug\Reportes.exe
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.exe
+C:\Users\Sistemas\Desktop\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\bin\Debug\Reportes.exe
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.csproj.ResolveComReference.cache
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.exe
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Sistemas\Desktop\REPORTES\Reportes_V3-CORRECTO\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
